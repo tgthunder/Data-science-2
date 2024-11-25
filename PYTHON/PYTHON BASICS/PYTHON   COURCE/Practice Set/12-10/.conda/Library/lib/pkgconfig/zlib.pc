@@ -1,0 +1,13 @@
+prefix=c:/Users/reliance/OneDrive/Desktop/DATA SCINCE/PYTHON/PYTHON BASICS/PYTHON   COURCE/Practice Set/12-10/.conda/Library
+exec_prefix=c:/Users/reliance/OneDrive/Desktop/DATA SCINCE/PYTHON/PYTHON BASICS/PYTHON   COURCE/Practice Set/12-10/.conda/Library
+libdir=c:/Users/reliance/OneDrive/Desktop/DATA SCINCE/PYTHON/PYTHON BASICS/PYTHON   COURCE/Practice Set/12-10/.conda/Library/lib
+sharedlibdir=c:/Users/reliance/OneDrive/Desktop/DATA SCINCE/PYTHON/PYTHON BASICS/PYTHON   COURCE/Practice Set/12-10/.conda/Library/lib
+includedir=c:/Users/reliance/OneDrive/Desktop/DATA SCINCE/PYTHON/PYTHON BASICS/PYTHON   COURCE/Practice Set/12-10/.conda/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

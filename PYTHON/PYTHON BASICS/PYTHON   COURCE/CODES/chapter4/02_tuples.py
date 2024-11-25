@@ -1,0 +1,5 @@
+#we can create tuples in()
+t1=(1,4,7,9,66, 45, 35, 44)
+print(t1)
+print(type(t1))
+print(dir(tuple))
